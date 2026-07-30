@@ -90,16 +90,19 @@ Looker Studio
 ---
 ## System Architecture
 
-![System Architecture](architecture/system-architecture.png)
+<img src="architecture/system-architecture.png" alt="System Architecture" width="900">
+
+<br><br>
 
 ## System Screenshots
 
 ### Lead Capture & Dashboard
-![Screenshot 1](system_photos/Screenshot%202026-07-30%20174029.png)
+<img src="system_photos/Screenshot%202026-07-30%20174029.png" alt="Screenshot 1" width="800">
+
+<br><br>
 
 ### Workflow / Analytics View
-![Screenshot 2](system_photos/Screenshot%202026-07-30%20174310.png)
-
+<img src="system_photos/Screenshot%202026-07-30%20174310.png" alt="Screenshot 2" width="800">
 ## Workflow
 
 ### 1. Lead Submission
