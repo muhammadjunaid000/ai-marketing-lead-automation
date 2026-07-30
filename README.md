@@ -86,13 +86,19 @@ Processed Leads
      │
      ▼
 Looker Studio
-```
 
-### Detailed Architecture
+
+## System Architecture
 
 ![System Architecture](architecture/system-architecture.png)
 
----
+## System Screenshots
+
+### Lead Capture & Dashboard
+![Screenshot 1](system_photos/Screenshot%202026-07-30%20174029.png)
+
+### Workflow / Analytics View
+![Screenshot 2](system_photos/Screenshot%202026-07-30%20174310.png)
 
 ## Workflow
 
