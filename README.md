@@ -87,7 +87,7 @@ Processed Leads
      ▼
 Looker Studio
 
-
+---
 ## System Architecture
 
 ![System Architecture](architecture/system-architecture.png)
