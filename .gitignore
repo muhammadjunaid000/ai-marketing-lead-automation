@@ -1,1 +1,43 @@
+# Environment variables
+.env
+.env.*
+!.env.example
 
+# Secrets and credentials
+*.key
+*.pem
+*.p12
+*.json
+
+# Local configuration
+config.local.*
+secrets.*
+credentials.*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Node
+node_modules/
+.next/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
