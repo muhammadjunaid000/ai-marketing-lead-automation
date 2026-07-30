@@ -1,0 +1,41 @@
+🚀 Built an AI-Powered Marketing & Lead Automation Platform
+
+As an AI Engineer, most of my recent work has been around agentic AI, application development, and API-driven systems.
+
+I wanted to take that experience a step further and explore how AI can be combined with **workflow automation** to solve practical business problems.
+
+So I built an end-to-end marketing lead automation system using **Make.com**.
+
+🔹 The workflow:
+
+Google Forms → Google Sheets → Make.com → AI Analysis → Conditional Router → Automated Actions → Analytics Dashboard
+
+The system can automatically:
+
+• Capture incoming marketing leads
+• Analyze unstructured lead information using AI
+• Generate a lead score and priority
+• Classify intent, sentiment, and lead type
+• Route HIGH / MEDIUM / LOW priority leads differently
+• Trigger automated email notifications and follow-ups
+• Store processed lead data
+• Visualize results through a Looker Studio dashboard
+• Handle fallback cases when classification doesn't match expected conditions
+
+🛠️ Technologies & tools:
+
+Make.com | AI | Google Sheets | Gmail | Looker Studio | Webhooks | APIs | JSON
+
+One of the things I found particularly interesting was the combination of **deterministic workflow automation with AI-based decision making**.
+
+My background has primarily been in AI and software development rather than traditional automation, so this project gave me an opportunity to understand how tools like Make.com can orchestrate real business workflows while AI handles more intelligent classification and decision-making.
+
+I'm continuing to explore the intersection of:
+
+**AI × Automation × Software Engineering**
+
+This is also something I'm excited to apply to real-world marketing and community workflows.
+
+🔗 Project: [GitHub repository]
+
+#AI #Automation #Makecom #AgenticAI #ArtificialIntelligence #SoftwareEngineering #MarketingAutomation #WorkflowAutomation #AIAutomation #MachineLearning
